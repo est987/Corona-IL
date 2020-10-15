@@ -1,0 +1,13 @@
+
+.idea/Corona.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+covid-il.code-workspace
+data/datagov/corona_city_table_ver_001.csv
+data/datagov/corona_lab_tests_date_dif.csv
+data/datagov/corona_lab_tests_ver_0072.csv
+data/datagov/corona_lab_tests_ver_0075.csv
+data/datagov/corona_tested_individuals_ver_0069.csv
+covid_by_town.geojson
